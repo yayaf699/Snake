@@ -1,0 +1,20 @@
+var searchData=
+[
+  ['gauche_100',['gauche',['../classSnake.html#a916a9fc1ba60759f59efdedeabc1815a',1,'Snake']]],
+  ['getch_101',['getCh',['../classWinTXT.html#a418c66475403586ac57a80eceb409166',1,'WinTXT']]],
+  ['getdimx_102',['getDimX',['../classTerrain.html#aba73615507abec72095c0e30b86dc607',1,'Terrain']]],
+  ['getdimy_103',['getDimY',['../classTerrain.html#ac02f3dc52ea6e238be41b73d68b247a4',1,'Terrain']]],
+  ['getfruit_104',['getFruit',['../classJeu.html#a118adb06e4dee91c6f34e047e5461ee5',1,'Jeu']]],
+  ['getsnake_105',['getSnake',['../classJeu.html#a64e74402cafece7ca25d04b70a39a6b4',1,'Jeu']]],
+  ['gettaille_106',['getTaille',['../classSnake.html#a12e970fb89a20fdf1f5249ede65864bf',1,'Snake']]],
+  ['getterrain_107',['getTerrain',['../classJeu.html#a59e9d434d95d11b198444b9033eb113a',1,'Jeu']]],
+  ['getx_108',['getX',['../classFruit.html#aebcbd2a3f13dee71cd202d9f4fbc2084',1,'Fruit']]],
+  ['getxcorps_109',['getXCorps',['../classSnake.html#a78e84acf350a7d3c672450e1f3300ce8',1,'Snake']]],
+  ['getxtete_110',['getXTete',['../classSnake.html#a91bae0c031270b3a65dafe0b040286d7',1,'Snake']]],
+  ['getxy_111',['getXY',['../classTerrain.html#a6e6830b7c899ca54518a81d13288f9c1',1,'Terrain']]],
+  ['getxyaschar_112',['getXYAsChar',['../classTerrain.html#a05ba8e0cf64c9265f46330dd9e1c6f10',1,'Terrain']]],
+  ['gety_113',['getY',['../classFruit.html#a0292b480f2f5fdedec9d52f0f38100ae',1,'Fruit']]],
+  ['getycorps_114',['getYCorps',['../classSnake.html#a9b2c025f4dcb57dd10ae9dfc0f79d11a',1,'Snake']]],
+  ['getytete_115',['getYTete',['../classSnake.html#ad5796db6d9f882b2cb6f4f6358be3704',1,'Snake']]],
+  ['grandir_116',['grandir',['../classSnake.html#a3bd94d8cf954cd3ec5476044aa322660',1,'Snake']]]
+];
